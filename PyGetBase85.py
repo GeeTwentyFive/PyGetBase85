@@ -4,7 +4,7 @@ import base64
 
 if len(sys.argv) != 2:
     print("USAGE: PyGetBase85 <TARGET_FILE_PATH>")
-    exit(1)
+    sys.exit(1)
 
 
 data = ""
