@@ -1,0 +1,1 @@
+USAGE: `PyGetBase85 <TARGET_FILE_PATH>`
